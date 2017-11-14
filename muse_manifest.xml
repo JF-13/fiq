@@ -1,0 +1,68 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="fiq.solutions" resolutions="1x" timestamp="1481738817906">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4006307085" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u3134.php" crc="139753989" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="contact.jpg" crc="162389288" ref="index"/>
+    <file name="fiqlogo1.png" crc="3838165208" seo="true" ref="index"/>
+    <file name="fiq1.jpg" crc="3946550229" seo="true" ref="index"/>
+    <file name="u162-4.png" crc="3888948348" ref="index"/>
+    <file name="u163-4.png" crc="178258585" ref="index"/>
+    <file name="u164-4.png" crc="481316951" ref="index"/>
+    <file name="mobileappdev-crop-u213.png" crc="4258515272" ref="index"/>
+    <file name="u3347-4.png" crc="416942943" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u3354_states.png" crc="4182205356" ref="index"/>
+    <file name="u3354_states-r.png" crc="17947561" ref="index"/>
+    <file name="u3354_states-m.png" crc="3878713828" ref="index"/>
+    <file name="coder.jpg" crc="400449660" seo="true" ref="index"/>
+    <file name="laptop.png" crc="4045249961" seo="true" ref="index"/>
+    <file name="u286-7.png" crc="432388267" ref="index"/>
+    <file name="u3360-4.png" crc="416942943" ref="index"/>
+    <file name="backend.png" crc="3875370034" seo="true" ref="index"/>
+    <file name="search.png" crc="4200063702" seo="true" ref="index"/>
+    <file name="savings.png" crc="4145182099" seo="true" ref="index"/>
+    <file name="scale.png" crc="535815253" seo="true" ref="index"/>
+    <file name="monitoring.jpg" crc="377441973" seo="true" ref="index"/>
+    <file name="chicagoskyline.jpg" crc="4011578931" seo="true" ref="index"/>
+    <file name="nearshore.jpg" crc="4034332310" ref="index"/>
+    <file name="fiqoffice.jpg" crc="3762918775" ref="index"/>
+    <file name="uidesign.jpg" crc="4051632963" ref="index"/>
+    <file name="webdev.png" crc="126721843" seo="true" ref="index"/>
+    <file name="frontenddev.png" crc="3779109085" seo="true" ref="index"/>
+    <file name="backenddev.png" crc="282784456" seo="true" ref="index"/>
+    <file name="uidesign2.png" crc="311821304" seo="true" ref="index"/>
+    <file name="webdevsample.png" crc="3959448186" seo="true" ref="index"/>
+    <file name="webapps.png" crc="299713041" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u541-4.png" crc="198608511" ref="index"/>
+    <file name="fiqlogo1-crop-u3309.png" crc="267375105" ref="index"/>
+    <file name="u3135-fse.png" crc="381694096" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3945612614" seo="true" mt="1481738816667" redirect="true"/>
+</manifest>
